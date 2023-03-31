@@ -18,6 +18,6 @@ plt.plot(years,a1,':k')
 plt.plot(years,a2,'-k')
 plt.legend(('0 years','1-4years'))
 plt.title('Impact of COVID-19 on mortality of midlife')
-plt.savefig('child.png')
+plt.savefig('child.jpg')
 plt.show()
 
