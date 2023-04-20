@@ -17,7 +17,7 @@ for i in years:
 plt.plot(years,a1,':k')
 plt.plot(years,a2,'-k')
 plt.legend(('0 years','1-4years'))
-plt.title('Impact of COVID-19 on mortality of midlife')
+plt.title('Impact of COVID-19 on mortality of children')
 plt.savefig('child.jpg',dpi=300)
 plt.show()
 
